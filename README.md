@@ -4,7 +4,6 @@ Graduanda em Ciência da Computação pela Universidade Federal do Amazonas
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renatarse) 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://br.linkedin.com/in/rcrenata)
 
 
