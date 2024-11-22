@@ -9,7 +9,9 @@
 
 💌 Email: 14renatarc@gmail.com
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg)](https://br.linkedin.com/in/rcrenata)
+<a href="https://br.linkedin.com/in/rcrenata">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="LinkedIn" width="20" height="20">
+</a>
 
 
 # 💻 Tech Stack:
