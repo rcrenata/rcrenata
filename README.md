@@ -5,12 +5,11 @@
 📍 Manaus, AM
 
 
-
 ## 🌐 Socials:
 
-💌 Email: 
+💌 Email: 14renatarc@gmail.com
 
-[![Linkedin] (https://www.google.com/imgres?q=linkedin&imgurl=https%3A%2F%2Ft.ctcdn.com.br%2FIwwDh-BajTE4ZwE4zuIcvz9Q2ZY%3D%2Fi490027.jpeg&imgrefurl=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Flinkedin%2F&docid=I7Jiq0TNfip6_M&tbnid=8eW8fFGNp9G6xM&vet=12ahUKEwj1m4j1lPCJAxUaALkGHcYxMzcQM3oECBwQAA..i&w=700&h=700&hcb=2&ved=2ahUKEwj1m4j1lPCJAxUaALkGHcYxMzcQM3oECBwQAA) LinkedIn](https://br.linkedin.com/in/rcrenata)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://br.linkedin.com/in/rcrenata)
 
 
 
