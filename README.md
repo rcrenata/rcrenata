@@ -1,4 +1,4 @@
-# Renata
+# Renata Coelho
 # 👩🏽‍💻 About Me:
 📖 Graduanda em Ciência da Computação pela UFAM.
 📍 Manaus, AM
