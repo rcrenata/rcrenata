@@ -1,9 +1,12 @@
 # Renata
-# 🤓 About Me:
-Graduanda em Ciência da Computação pela Universidade Federal do Amazonas
+# 👩🏽‍💻 About Me:
+📖 Graduanda em Ciência da Computação pela UFAM.
+📍 Manaus, AM
+
 
 
 ## 🌐 Socials:
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://br.linkedin.com/in/rcrenata)
 
 
