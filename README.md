@@ -28,11 +28,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rcrenata&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&icon_color=FF69B4&title_color=FF69B4&text_color=FFC0CB&bg_color=151515&locale=pt-br" alt="GitHub Stats"/><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rcrenata&theme=rose_pine&hide_border=true&background=151515&ring=FF69B4&fire=FF69B4&currStreakNum=FFC0CB&sideNums=FFC0CB&currStreakLabel=FF69B4" alt="GitHub Streak Stats"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&icon_color=FF69B4&title_color=FF69B4&text_color=FFC0CB&bg_color=151515" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rcrenata&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&icon_color=C4B5FD&title_color=F472B6&text_color=E5E7EB&bg_color=1D1F28&locale=pt-br" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcrenata&theme=rose_pine&hide_border=true&background=1D1F28&ring=C4B5FD&fire=F472B6&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=F472B6" alt="GitHub Streak Stats"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&icon_color=C4B5FD&title_color=F472B6&text_color=E5E7EB&bg_color=1D1F28" alt="Top Languages"/>
 </div>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rcrenata&icon=0&color=3)](https://visitcount.itsvg.in)
 
