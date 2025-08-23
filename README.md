@@ -1,6 +1,7 @@
 # Renata Coelho
 # 👩🏽‍💻 About Me:
 📖 Graduanda em Ciência da Computação pela UFAM.
+
 📱 Atualmente estudando e desenvolvendo projetos para Android (Flutter, Java e Kotlin).
 
 📍 Manaus, AM
