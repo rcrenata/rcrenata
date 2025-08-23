@@ -32,6 +32,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcrenata&theme=rose_pine&hide_border=true&background=1D1F28&ring=C4B5FD&fire=F472B6&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=F472B6" alt="GitHub Streak Stats"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&icon_color=C4B5FD&title_color=F472B6&text_color=E5E7EB&bg_color=1D1F28" alt="Top Languages"/>
 </div>
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
