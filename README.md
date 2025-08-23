@@ -27,9 +27,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rcrenata&theme=rose_pine&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rcrenata&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&icon_color=FF69B4&title_color=FF69B4&text_color=FFC0CB&bg_color=151515&locale=pt-br" alt="GitHub Stats"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rcrenata&theme=rose_pine&hide_border=true&background=151515&ring=FF69B4&fire=FF69B4&currStreakNum=FFC0CB&sideNums=FFC0CB&currStreakLabel=FF69B4" alt="GitHub Streak Stats"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcrenata&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact&icon_color=FF69B4&title_color=FF69B4&text_color=FFC0CB&bg_color=151515" alt="Top Languages"/>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rcrenata&icon=0&color=3)](https://visitcount.itsvg.in)
